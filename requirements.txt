@@ -1,0 +1,7 @@
+python==3.12.12
+gymnasium==1.0.0
+numpy==1.26.4
+pytorch==2.8.0
+tqdm==4.67.1
+wandb==0.22.2
+matplotlib==3.10.7
